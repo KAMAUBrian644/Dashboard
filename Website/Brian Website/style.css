@@ -1,0 +1,20 @@
+
+   img{
+    height: 200px;
+    width: auto;
+    border: 4px  #ff0000;
+    border-radius: 90%;
+ }
+ h2{
+    color:hsl(290, 100%, 50%);
+    text-transform: lowercase;
+    text-decoration: underline;
+    background-color: #0000ff;
+    padding: 20px 30px 40px 50px;
+ }
+ h2{
+    font-size:italic;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+ }
